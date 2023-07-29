@@ -41,22 +41,7 @@
         "url": "https://scholar.google.com/citations?user=cRO6BoEAAAAJ&hl=it"
       }]
     },
-    "work": [{
-      "name": "ATTICUS project",
-      "position": "Research Fellow",
-      "url": "https://atticus.regione.molise.it",
-      "startDate": "2019-04",
-      "endDate": "2020-10",
-      "summary": "Applied research project on the use of Artificial Intelligence for the telemonitoring of patients and early detection of health anomalies",
-    "keywords": [
-      "Decision Support System (DSS)",
-      "DevOps practices (Kubernetes, git, GitLab CI, Docker)",
-      "Machine Learning (Scikit-Learn and Tensorflow)",
-      "Android App",
-      "Bluetooth Low Energy (BLE)", 
-      "GATT server and client"
-    ]
-    },
+    "work": [
     {
     "name": "App for BLSD operators",
     "position": "Freelancer Developer",
@@ -69,6 +54,22 @@
     "Geolocation and Geoqueries",
     "Real-time notifications",
     "Spring Boot"
+  ]
+  },
+  {
+    "name": "ATTICUS project",
+    "position": "Research Fellow",
+    "url": "https://atticus.regione.molise.it",
+    "startDate": "2019-04",
+    "endDate": "2020-10",
+    "summary": "Applied research project on the use of Artificial Intelligence for the telemonitoring of patients and early detection of health anomalies",
+  "keywords": [
+    "Decision Support System (DSS)",
+    "DevOps practices (Kubernetes, git, GitLab CI, Docker)",
+    "Machine Learning (Scikit-Learn and Tensorflow)",
+    "Android App",
+    "Bluetooth Low Energy (BLE)", 
+    "GATT server and client"
   ]
   },
   {
@@ -86,15 +87,6 @@
 }],
     "education": [
       {
-        "institution": "Grupo de Sistemas y Comunicaciones @ Universidad Rey Juan Carlos",
-        "url": "https://gsyc.urjc.es//",
-        "area": "PhD",
-        "studyType": "Visiting Student",
-        "startDate": "2022-11",
-        "endDate": "2023-02",
-        "summary": "Empirical study to understand what are the best writing practices prioritized by experts in Dockerfiles."
-      },
-      {
         "institution": "University of Molise",
         "url": "https://www2.dipbioter.unimol.it",
         "area": "Software Engineering",
@@ -105,6 +97,15 @@
           "Software Maintenance",
           "Empirical Software Engineering"
         ], "summary": "The research activity is focused on the study of the quality of Docker artifacts."
+      },
+      {
+        "institution": "Grupo de Sistemas y Comunicaciones @ Universidad Rey Juan Carlos",
+        "url": "https://gsyc.urjc.es//",
+        "area": "PhD",
+        "studyType": "Visiting Student",
+        "startDate": "2022-11",
+        "endDate": "2023-02",
+        "summary": "Empirical study to understand what are the best writing practices prioritized by experts in Dockerfiles."
       },
       {
         "institution": "Software Institute @ USI Università della Svizzera italiana",
