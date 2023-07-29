@@ -1,189 +1,176 @@
 {
     "meta": { "theme": "elegant" },
     "basics": {
-      "name": "Stefano Dalla Palma",
-      "label": "Software Engineer",
+      "name": "Giovanni Rosa",
+      "label": "PhD Student",
       "image": "",
-      "email": "s.dallapalma@uvt.nl",
-      "url": "https://stefanodallapalma.github.io",
-      "summary": "A proactive, self-studier, with a strong can-do attitude person motivated by an inexhaustible enthusiasm and commitment and excited to follow-up collaborations with industries working in the Software Engineering domain!\nRecently completed the Google Project Management Career Certificate - a rigorous, hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.",
+      "email": "g.rosa1@studenti.unimol.it",
+      "url": "giovannirosa.com",
+      "summary": "Ph.D. student in software engineering. My research work is about software quality and maintenance, with a focus on the quality of Docker artifacts. I have also contributed to empirical studies on software bugs, software testing, and smart contracts maintenance.",
       "location": {
-        "city": "s-Hertogenbosch",
-        "countryCode": "NL",
-        "region": "North Brabant"
+        "region": "Italy"
       },
       "profiles": [{
-        "network": "linkedin",
-        "username": "stefanodallapalma",
-        "url": "https://www.linkedin.com/in/stefanodallapalma"
+        "network": "safari",
+        "username": "giovannirosa.com",
+        "url": "https://giovannirosa.com"
       },
       {
         "network": "github",
-        "username": "stefanodallapalma",
-        "url": "https://github.com/stefanodallapalma"
-      },
-      {
-          "network": "stack-overflow",
-          "username": "s.dallapalma",
-          "url": "https://stackoverflow.com/users/3673842/s-dallapalma"
+        "username": "grosa1",
+        "url": "https://github.com/grosa1"
       },
       {
           "network": "slideshare",
-          "username": "StefanoDallaPalma1",
-          "url": "https://www.slideshare.net/StefanoDallaPalma1"
-      }
-    ]
+          "username": "GiovanniRosa14",
+          "url": "https://www.slideshare.net/GiovanniRosa14"
+      },
+      {
+          "network": "twitter",
+          "username": "@giovannipink",
+          "url": "https://twitter.com/giovannipink"
+      },
+      {
+        "network": "linkedin",
+        "username": "giovanni-rosa-5298b0148",
+        "url": "www.linkedin.com/in/giovanni-rosa-5298b0148"
+      },
+      {
+        "network": "google",
+        "username": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=cRO6BoEAAAAJ&hl=it"
+      }]
     },
     "work": [{
-      "name": "Datasound s.r.l.",
-      "position": "Co-founder",
-      "url": "https://datasound.it",
-      "startDate": "2017-11",
-      "endDate": "2021-07"
-    }],
-    "education": [{
-      "institution": "Coursera",
-      "area": "Google Project Management Certificate",
-      "studyType": "Online",
-      "startDate": "2022"
-    },{
-      "institution": "Tilburg University, JADS",
-      "url": "https://www.jads.nl",
-      "area": "Software and Data Engineering",
-      "studyType": "Ph.D.",
-      "startDate": "2019-02-01"
+      "name": "ATTICUS project",
+      "position": "Research Fellow",
+      "url": "https://atticus.regione.molise.it",
+      "startDate": "2019-04",
+      "endDate": "2020-10",
+      "summary": "Applied research project on the use of Artificial Intelligence for the telemonitoring of patients and early detection of health anomalies",
+    "keywords": [
+      "Decision Support System (DSS)",
+      "DevOps practices (Kubernetes, git, GitLab CI, Docker)",
+      "Machine Learning (Scikit-Learn and Tensorflow)",
+      "Android App",
+      "Bluetooth Low Energy (BLE)", 
+      "GATT server and client"
+    ]
     },
     {
-      "institution": "University College London",
-      "url": "https://www.ucl.ac.uk/crest/",
-      "area": "Erasmus Taineeship",
-      "studyType": "Master Thesis",
-      "startDate": "2018-04-01",
-      "endDate": "2018-07-03",
-      "courses": [
-        "Conduced an empirical study on Bounded Model-Checking in security context",
-        "Gained familiarity with the bounded model-checker CBMC and analyzed it in distinguish vulnerable code regions",
-        "Collected and analyzed corpus of real-world C applications with known vulnerabilities",
-        "Implemented program analysis in Python and performed experimentation"
-      ]
-    },
+    "name": "App for BLSD operators",
+    "position": "Freelancer Developer",
+    "url": "",
+    "startDate": "2020",
+    "endDate": "2020",
+    "summary": "Prototype of a mobile app to request the timely intervention of nearby BSLD operators in case of distress requests",
+  "keywords": [
+    "Ionic Framework (Angular, TypeScript, HTML, CSS)",
+    "Geolocation and Geoqueries",
+    "Real-time notifications",
+    "Spring Boot"
+  ]
+  },
+  {
+  "name": "Legal Search Engine",
+  "position": "Freelancer Developer",
+  "url": "",
+  "startDate": "2019",
+  "endDate": "2019",
+  "summary": "Prototype of a search engine for legal documents",
+"keywords": [
+  "Elasticsearch",
+  "Spring Boot",
+  "Natural Language Processing (NLP)"
+]
+}],
+    "education": [
+      {
+        "institution": "Grupo de Sistemas y Comunicaciones @ Universidad Rey Juan Carlos",
+        "url": "https://gsyc.urjc.es//",
+        "area": "PhD",
+        "studyType": "Visiting Student",
+        "startDate": "2022-11",
+        "endDate": "2023-02",
+        "summary": "Empirical study to understand what are the best writing practices prioritized by experts in Dockerfiles."
+      },
+      {
+        "institution": "University of Molise",
+        "url": "https://www2.dipbioter.unimol.it",
+        "area": "Software Engineering",
+        "studyType": "Ph.D.",
+        "startDate": "2020-11",
+        "courses": [
+          "Software Quality",
+          "Software Maintenance",
+          "Empirical Software Engineering"
+        ], "summary": "The research activity is focused on the study of the quality of Docker artifacts."
+      },
+      {
+        "institution": "Software Institute @ USI Università della Svizzera italiana",
+        "url": "https://www.si.usi.ch/",
+        "area": "Visiting Student",
+        "studyType": "Master",
+        "startDate": "2020-04",
+        "endDate": "2020-04",
+        "summary": "Empirical study on bug-fixing commits using the SZZ algorithm. Presented at ICSE'21 (CORE ranking A*)"
+      },
     {
       "institution": "University of Molise",
       "url": "https://www2.dipbioter.unimol.it/sicurezza-dei-sistemi-software/",
       "area": "Software System Security",
       "studyType": "Master",
-      "startDate": "2016-09-01",
-      "endDate": "2018-10-25",
-      "score": "110/110 cum laude",
-      "courses": []
+      "startDate": "2020",
+      "endDate": "2018",
+      "score": "110/110 cum laude"
+    },
+    {
+      "institution": "CREST @ University College London",
+      "url": "https://www.ucl.ac.uk/crest/",
+      "area": "Erasmus Taineeship",
+      "studyType": "Bachelor Thesis",
+      "startDate": "2018-04",
+      "endDate": "2018-07",
+      "summary": "Empirical study on how developers perform code review in open-source projects."
     },
     {
       "institution": "University of Molise",
       "url": "https://www2.dipbioter.unimol.it/informatica/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2013-09-01",
-      "endDate": "2016-12-15",
-      "score": "110/110 cum laude",
-      "courses": []
+      "startDate": "2015",
+      "endDate": "2018",
+      "score": "110/110 cum laude"
     }],
     "awards": [],
-    "certificates": [{
-      "name": "Google Project Management: Specialization",
-      "date": "2022-10",
-      "issuer": "Google",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/BCC4ZKBW4WFX",
-      "description": "An online non-credit course authorized by Google and offered through Coursera"
-    },{
-      "name": "AWS Cloud Technical Essentials",
-      "date": "2022-08-18",
-      "issuer": "Amazon Web Services",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/Q88KJDCX2XJ2",
-      "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera"
-    },
-    {
-        "name": "Kotlin for Java Developers",
-        "date": "2022-06-04",
-        "issuer": "JetBrains",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/8JUG3979ZUYW",
-        "description": "An online non-credit course authorized by JetBrains and offered through Coursera"
-    },
-    {
-        "name": "Introduction to Machine Learning in Production",
-        "date": "2022-02-19",
-        "issuer": "DeepLearning.AI",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/CYPPNN5AUARM",
-        "description": "An online non-credit course authorized by DeepLearning.AI and offered through Coursera"
-    },
-    {
-        "name": "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential",
-        "date": "2022-05-10",
-        "issuer": "McMaster University",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/3YSEUSK8LZ9H",
-        "description": "An online non-credit course authorized by McMaster University and offered through Coursera"
-    },
-    {
-        "name": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
-        "date": "2022-04-08",
-        "issuer": "Deep Teaching Solutions",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/7V8GTJZPECPE",
-        "description": "An online non-credit course authorized by Deep Teaching Solutions and offered through Coursera"
-    },
-    {
-        "name": "Writing in the Sciences",
-        "date": "2022-02-10",
-        "issuer": "Stanford University",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/BXQFF76H5AP3",
-        "description": "An online non-credit course authorized by Stanford University and offered through Coursera"
-    }],
+    "certificates": [],
     "publications": [{
-      "name": "Defuse: A Data Annotator and Model Builder for Software Defect Prediction",
-      "publisher": "IEEE International Conference on Software Maintenance and Evolution"
-    },{
-      "name": "Go serverless with RADON! A practical DevOps experience report",
-      "publisher": "IEEE Software",
-      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9763068"
-    },{
-      "name": "What is your distributed (hyper) ledger?",
-      "publisher": "International Workshop on Emerging Trends in Software Engineering for Blockchain",
-      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9474793"
-    },{
-      "name": "Blockchain and cryptocurrencies: A classification and comparison of architecture drivers",
-      "publisher": "Concurrency and Computation: Practice and Experience",
-      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5992"
-    },{
-      "name": "Within-project defect prediction of infrastructure-as-code using product and process metrics",
-      "publisher": "IEEE Transactions on Software Engineering",
-      "url": "https://ieeexplore.ieee.org/iel7/32/9795956/09321740.pdf"
-    },{
-      "name": "The Genesy model for a blockchain-based fair ecosystem of genomic data",
-      "publisher": "Frontiers in Blockchain",
-      "url": "https://www.frontiersin.org/articles/10.3389/fbloc.2020.483227/full"
-    },{
-      "name": "Toward a catalog of software quality metrics for infrastructure code",
-      "publisher": "Journal of Systems and Software",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0164121220301618"
-    },{
-      "name": "Singling the odd ones out: a novelty detection approach to find defects in infrastructure-as-code",
-      "publisher": "International Workshop on Machine-Learning Techniques for Software-Quality Evaluation",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3416505.3423563"
-    },{
-      "name": "Deepiac: Deep learning-based linguistic anti-pattern detection in iac",
-      "publisher": "Empirical Software Engineering Journal",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3416505.3423564"
-    },{
-      "name": "DevOps and Quality Management in Serverless Computing: The RADON Approach",
-      "publisher": "European Conference on Service-Oriented and Cloud Computing",
-      "url": "https://pure.uvt.nl/ws/portalfiles/portal/48530078/_ESOCC_DevOps_and_Quality_Management_in_Serverless_Computing_The_RADON_Approach.pdf"
-    },{
-      "name": "AnsibleMetrics: A Python library for measuring Infrastructure-as-Code blueprints in Ansible",
-      "publisher": "SoftwareX",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352711020303460"
-    },{
-      "name": "Artificial intelligence: Journey through the thinking machines that will change our future (Book)",
-      "publisher": "Hachette fascicoli",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352711020303460"
-    }],
+      "name": "What Quality Aspects Influence the Adoption of Docker Images?",
+      "publisher": "ACM TOSEM 2023",
+      "url": "https://dl.acm.org/doi/10.1145/3603111",
+      "keywords": [
+        "Empirical Study",
+        "Software Quality",
+        "Docker"
+      ],
+      "summary": [
+        "Empirical study on the quality features impacting the adoption of Docker images."
+      ]
+    },
+    {
+      "name": "Automatically Generating Dockerfiles via Deep-Learning: Challenges and Promises",
+      "publisher": "IEEE/ACM ICSSP 2023",
+      "url": "https://doi.org/10.1109/ICSSP59042.2023.00011",
+      "keywords": [
+        "Empirical Study",
+        "Code Generation",
+        "Docker"
+      ],
+      "summary": [
+        "Empirical study on the generation of Dockerfiles via deep learning using a structured input specification."
+      ]
+    }
+  ],
     "skills": [{
       "name": "Programming Paradigms",
       "keywords": [
@@ -199,19 +186,16 @@
         "Java",
         "JavaScript",
         "TypeScript",
-        "Kotlin",
-        "Prolog",
-        "C/C++/C#",
-        "Ansible"
+        "C",
+        "Dockerfile",
+        "Bash"
       ]
     },{
       "name": "Frameworks",
       "keywords": [
-        "PyDriller",
         "Scikit-Learn",
-        "Imbalanced-Learn",
         "Flask",
-        "Deap",
+        "Spring Boot",
         "Angular"
       ]
     },{
@@ -219,23 +203,18 @@
       "keywords": [
         "Supervised",
         "Clustering",
-        "Anomaly/Novelty detection",
+        "Time series forecasting",
         "Basic Neural Networks"
       ]
     },{
       "name": "Platforms",
       "keywords": [
         "Windows",
-        "Linux/Ubuntu",
-        "Docker"
-      ]
-    },{
-      "name": "Project Management",
-      "keywords": [
-        "Agile project management",
-        "Risk management",
-        "Effective stakeholders communication",
-        "Scoping and planning"
+        "Linux",
+        "Android",
+        "Docker",
+        "GitLab CI/GItHub Actions",
+        "Kubernetes"
       ]
     },{
       "name": "Communication",
@@ -250,49 +229,26 @@
       "keywords": [
         "Adaptability/Flexibility",
         "Problem solving",
-        "Research",
-        "Thinking outside the box",
-        "Willingess to learn"
+        "Research"
       ]
     },{
       "name": "Leadership",
       "keywords": [
         "Decision making",
         "Project management",
-        "Supervising"
+        "Supervising",
+        "Team leading"
       ]
     },{
       "name": "Collaboration",
       "keywords": [
         "Github",
-        "monday.com",
+        "GitLab",
+        "Discord",
         "Microsoft Teams",
         "Slack"
       ]
     }],
-    "references": [{
-      "name": "Dr. Earl Barr, Jul 2018 (http://earlbarr.com/)",
-      "reference": "Stefano is an impressive young researcher. He generates his own interesting research ideas and overcomes most engineering obstacles on his own. He has a promising future ahead of him"
-    }],
-    "projects": [{
-      "name": "RADON-H2020",
-      "description": "The project aims at pursuing a broader adoption of serverless computing technologies within the European software industry. One of RADON’s key pillars is quality assurance tools for Infrastructure-as-Code. As part of the RADON framework, the Defect Prediction tool (https://github.com/radon-h2020/radon-defuse) developed during the PhD focuses on IaC correctness. It consists of several components to mine open-source repositories to identify failure data and to extract quality metrics to guide the empirical training and enrichment of the models for defect prediction as well as predict code smells and errors in IaC files. Although instantiated in the context of infrastructure as code, the defect predictor was envisioned and designed to be language-agnostic.",
-      "highlights": [
-        "Developed a tool suite for defect prediction of failure-prone Infrastructure-as-Code files (https://github.com/radon-h2020/radon-defuse)",
-        "Conducted empirical research to implement and validate the tool suite"
-      ],
-      "keywords": [
-        "serverless",
-        "infrastructure-as-code",
-        "defect prediction"
-      ],
-      "startDate": "2019-02-01",
-      "endDate": "2021-09-21",
-      "url": "https://radon-h2020.eu",
-      "roles": [
-        "Researcher"
-      ],
-      "entity": "Horizon-2020",
-      "type": "framework"
-    }]
+    "references": [],
+    "projects": []
   }
