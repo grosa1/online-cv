@@ -33,12 +33,12 @@
     },
     "work": [
     {
-    "name": "App for BLSD operators",
+    "name": "First-Aid App",
     "position": "Freelancer Developer",
     "url": "",
     "startDate": "2020",
     "endDate": "2020",
-    "summary": "Prototype of a mobile app to request the timely intervention of nearby BSLD operators in case of distress requests",
+    "summary": "Prototype of a mobile app to call nearby BSLD operators in case of heart-related mergencies.",
   "keywords": [
     "Ionic Framework (Angular, TypeScript, HTML, CSS)",
     "Geolocation and Geoqueries",
@@ -167,8 +167,7 @@
       "keywords": [
         "Object-Oriented",
         "Procedural",
-        "Functional",
-        "Logic"
+        "Functional"
       ]
     },{
       "name": "Coding Languages",
