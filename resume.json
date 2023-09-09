@@ -48,7 +48,7 @@
   },
   {
     "name": "ATTICUS project",
-    "position": "Research Fellow",
+    "position": "Machine Learning Research Engineer",
     "url": "https://atticus.regione.molise.it",
     "startDate": "2019-04",
     "endDate": "2020-10",
@@ -72,6 +72,20 @@
 "keywords": [
   "Elasticsearch",
   "Spring Boot",
+  "Natural Language Processing (NLP)",
+  "Web crawler"
+]
+},
+{
+  "name": "CARUSO bot",
+  "position": "Freelancer Developer",
+  "url": "caruso.datasound.it",
+  "startDate": "2020",
+  "endDate": "2020",
+  "summary": "Chatbot to answer COVID-19 related questions based on a knowledge base of scientific articles",
+"keywords": [
+  "BERT",
+  "Python",
   "Natural Language Processing (NLP)"
 ]
 }],
@@ -86,7 +100,7 @@
           "Software Quality",
           "Software Maintenance",
           "Empirical Software Engineering"
-        ], "summary": "The research activity is focused on the study of the quality of Docker artifacts."
+        ], "summary": "My primary focus is to study the quality and maintenance of Docker artifacts. Secondary activities include supporting teaching activity and contributing to applied research projects involving practical applications of machine learning methods."
       },
       {
         "institution": "Grupo de Sistemas y Comunicaciones @ Universidad Rey Juan Carlos",
@@ -136,29 +150,28 @@
     "awards": [],
     "certificates": [],
     "publications": [{
-      "name": "What Quality Aspects Influence the Adoption of Docker Images?",
-      "publisher": "ACM TOSEM 2023",
-      "url": "https://dl.acm.org/doi/10.1145/3603111",
+      "name": "Evaluating SZZ implementations through a developer-informed oracle",
+      "publisher": "ICSE 2021",
+      "url": "https://arxiv.org/pdf/2102.03300.pdf",
       "keywords": [
         "Empirical Study",
-        "Software Quality",
-        "Docker"
+        "Bug-fixing commits"
       ],
       "summary": [
-        "Empirical study on the quality features impacting the adoption of Docker images."
+        "An empirical study on the evaluation of SZZ implementations through developer-informed dataset extracted from open-source repositories through a semi-automatic approach involving NLP techniques."
       ]
     },
     {
       "name": "Automatically Generating Dockerfiles via Deep-Learning: Challenges and Promises",
-      "publisher": "IEEE/ACM ICSSP 2023",
-      "url": "https://doi.org/10.1109/ICSSP59042.2023.00011",
+      "publisher": "IEEE/ACM ICSSP 2023 (ICSE 2023 Co-located Event)",
+      "url": "https://arxiv.org/pdf/2303.15990.pdf",
       "keywords": [
         "Empirical Study",
         "Code Generation",
         "Docker"
       ],
       "summary": [
-        "Empirical study on the generation of Dockerfiles via deep learning using a structured input specification."
+        "An empirical study on the generation of Dockerfiles via deep learning using a structured natural language input specification evaluated in comparison of Information Retrieval (IR) based approaches."
       ]
     }
   ],
