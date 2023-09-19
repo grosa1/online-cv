@@ -52,7 +52,7 @@
     "url": "https://atticus.regione.molise.it",
     "startDate": "2019-04",
     "endDate": "2020-10",
-    "summary": "Applied research project on the use of Artificial Intelligence for the monitoring of patients and early detection of health anomalies",
+    "summary": "Applied research project on the use of Artificial Intelligence for the monitoring of patients and early detection of health anomalies.",
   "keywords": [
     "Decision Support System (DSS)",
     "DevOps practices (Kubernetes, git, GitLab CI, Docker)",
@@ -100,7 +100,7 @@
           "Software Quality",
           "Software Maintenance",
           "Empirical Software Engineering"
-        ], "summary": "My primary focus is to study the quality and maintenance of Docker artifacts. Secondary activities include supporting teaching activity and contributing to applied research projects involving practical applications of machine learning methods."
+        ], "summary": "My primary focus is to study the quality and maintenance of Docker artifacts. Secondary activities include supporting teaching activities and contributing to applied research projects involving practical applications of machine learning methods. More details can be found on my academic website (giovannirosa.com)."
       },
       {
         "institution": "Grupo de Sistemas y Comunicaciones @ Universidad Rey Juan Carlos",
