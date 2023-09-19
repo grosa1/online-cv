@@ -191,7 +191,8 @@
         "TypeScript",
         "C",
         "Dockerfile",
-        "Bash"
+        "Bash",
+        "PHP"
       ]
     },{
       "name": "Frameworks",
@@ -199,14 +200,14 @@
         "Scikit-Learn",
         "Flask",
         "Spring Boot",
-        "Angular"
+        "Angular",
+        "Pandas"
       ]
     },{
       "name": "Machine Learning",
       "keywords": [
         "Supervised",
         "Clustering",
-        "Time series forecasting",
         "Basic Neural Networks"
       ]
     },{
@@ -214,9 +215,11 @@
       "keywords": [
         "Windows",
         "Linux",
+        "MacOS",
         "Android",
         "Docker",
-        "GitLab CI/GItHub Actions",
+        "GitLab CI",
+        "GItHub Actions",
         "Kubernetes"
       ]
     },{
